@@ -16,7 +16,7 @@ public static void main (String[] args)
     for (i=1;i<10;i++){
         System.out.println("Informe o"+i+"º número:");
         num[i] = entrada.nextInt();
-        System.out.println(num[i]);
+        //System.out.println(num[i]);//veio da web
     }
         achou = false;
         for (i=1;i<10;i++){
